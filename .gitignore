@@ -1,0 +1,4 @@
+/data
+*.joblib
+output.*
+.ipynb_checkpoints/

@@ -1,0 +1,88 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "line_text",
+                "type": "string"
+            },
+            {
+                "name": "cluster",
+                "type": "integer"
+            },
+            {
+                "name": "distance",
+                "type": "number"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "0.20.0"
+    },
+    "data": [
+        {
+            "index": 83225,
+            "line_text": "      BENEDICK.",
+            "cluster": 0,
+            "distance": 0.699446556
+        },
+        {
+            "index": 73996,
+            "line_text": "    I should be guiltier than my guiltiness,",
+            "cluster": 1,
+            "distance": 0.7940743564
+        },
+        {
+            "index": 105532,
+            "line_text": "To you and your behests; and am enjoin\u2019d",
+            "cluster": 2,
+            "distance": 0.8018506253
+        },
+        {
+            "index": 47838,
+            "line_text": "    Thou wouldst have left thy dearest heart-blood there",
+            "cluster": 3,
+            "distance": 0.7761387126
+        },
+        {
+            "index": 69814,
+            "line_text": "Authoris\u2019d by her grandam. Shame itself!",
+            "cluster": 4,
+            "distance": 0.8469865947
+        },
+        {
+            "index": 57140,
+            "line_text": "And keep us all in servile fearfulness.",
+            "cluster": 5,
+            "distance": 0.7624886981
+        },
+        {
+            "index": 118811,
+            "line_text": "ANDARUS.",
+            "cluster": 6,
+            "distance": 0.656141214
+        },
+        {
+            "index": 27196,
+            "line_text": "Will bring him to his wonted way again,",
+            "cluster": 7,
+            "distance": 0.7798027789
+        },
+        {
+            "index": 63033,
+            "line_text": "Come forth.",
+            "cluster": 8,
+            "distance": 0.7866333626
+        },
+        {
+            "index": 54656,
+            "line_text": "  ELINOR. Out, insolent! Thy bastard shall be king,",
+            "cluster": 9,
+            "distance": 0.7691824687
+        }
+    ]
+}
